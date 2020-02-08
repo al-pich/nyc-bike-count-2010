@@ -1,0 +1,14 @@
+{
+  "name": "02628e98d833e71d",
+  "main": "02628e98d833e71d@201.js",
+  "version": "201.0.0",
+  "homepage": "https://observablehq.com/d/02628e98d833e71d",
+  "author": {
+    "name": "Alyssa Pichardo",
+    "url": "https://observablehq.com/@alyssa_pichardo"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
